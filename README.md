@@ -1,3 +1,7 @@
 # INET STREAM SERVER LIBRARY
 
-## unfinished
+Http request parsing & Http response generaton
+
+*unfinished* Inet Connection Thread Generaton
+
+## 33% unfinished
